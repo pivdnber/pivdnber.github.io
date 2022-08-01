@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a human movement scientist enthusiastic about sports biomechanics, assistive technology, and reproducibility in science. My general research interests include biofeedback applications, running-related injuries, locomotion mechanics and energetics.
+**I’m a human movement scientist enthusiastic about sports biomechanics, assistive technology, and reproducibility in science. My general research interests include biofeedback applications, running-related injuries, locomotion mechanics and energetics.**
 
 
 
@@ -17,13 +17,9 @@ Throughout my M.Sc. I became interested in sports sciences, particularly in huma
 What am I up to?
 ======
 
-I've become research support staff at Ghent University in the [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) department. I recently joined the Editorial Board of the [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&) and occasionally contribute peer review on submitted articles. In my spare time I enjoy outdoors sports and hiking in the mountains with others. Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working, [follow me](https://twitter.com/SportSciSum) on twitter, or get in touch! 
+I've become research support staff at Ghent University in the [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) department. I recently joined the Editorial Board of the [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&) and occasionally contribute peer review on submitted articles. In my spare time I enjoy outdoors sports and hiking in the mountains with others. 
 
-
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working, [follow me](https://twitter.com/SportSciSum) on twitter, or get in touch<mailto:pieter.vandenberghe@ugent.be>! 
 
 
 
