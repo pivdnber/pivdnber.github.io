@@ -9,12 +9,13 @@
 locale                   : "en-US"
 title                    : "PIETER VAN DEN BERGHE"
 title_separator          : "-"
+masthead_title           : "My Custom Title" #nieuw toegevoegd voor aparte tittel
 name                     : &name "Pieter Van den Berghe"
 description              : &description "personal description"
 url                      : https://pivdnber.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pivdnber/pivdnber.github.io"
-teaser                   : "\images\500x300.png"
+teaser                   : "/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
