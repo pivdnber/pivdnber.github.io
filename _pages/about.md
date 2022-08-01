@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I’m a human movement scientist enthusiastic about sports biomechanics, assistive technology, and reproducibility in science. My general research interests include biofeedback applications, running-related injuries, locomotion mechanics and energetics.**
+I’m a human movement scientist enthusiastic about sports biomechanics, assistive technology, and reproducibility in science. My general research interests include biofeedback applications, running-related injuries, locomotion mechanics and energetics.
 
 
 
