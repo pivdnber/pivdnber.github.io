@@ -17,8 +17,8 @@ Throughout my M.Sc. I became interested in sports sciences, particularly in huma
 What am I up to?
 ======
 
-I'm currently research support staff in the department of [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) at campus UZ - Ghent University. I recently joined the Editorial Board of the [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&). Training for a marathon.
-
-Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working, [follow me](https://twitter.com/SportSciSum) on twitter, or [get in touch](mailto:pieter.vandenberghe@ugent.be)! 
+I'm currently research support staff in the department of [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) at campus UZ - Ghent University. I recently joined the Editorial Board of the [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&). Training for a marathon...
 
 ![LopenWatersportbaan](/images/1500x500twitterBanner.jpg)
+
+Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working, [follow me](https://twitter.com/SportSciSum) on twitter, or [get in touch](mailto:pieter.vandenberghe@ugent.be)! 
