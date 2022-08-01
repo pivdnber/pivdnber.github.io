@@ -16,7 +16,7 @@ url                      : https://pivdnber.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pivdnber/pivdnber.github.io"
 teaser                   : "/images/500x300.png"
-logo                     : "\images\88x88.png" # poging om logo toe te voegen
+logo                     : "website_thesislogo_LIR.jpg" # poging om logo toe te voegen
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
