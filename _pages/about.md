@@ -17,7 +17,7 @@ Throughout my M.Sc. I became interested in sports sciences, particularly in huma
 What am I up to?
 ======
 
-I've become research support staff at Ghent University in the [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) department. I recently joined the Editorial Board of the [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&) and occasionally contribute peer review on submitted articles. In my spare time I enjoy outdoors sports and hiking in the mountains with others. 
+I've become research support staff at Ghent University in the [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) department. I recently joined the Editorial Board of the [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&). In my spare time I enjoy outdoors sports and hiking in the mountains with others. 
 
 Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working, [follow me](https://twitter.com/SportSciSum) on twitter, or [get in touch](mailto:pieter.vandenberghe@ugent.be)! 
 
@@ -26,8 +26,4 @@ Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechani
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+![Editing a markdown file for a talk](/images/1500x500twitterBanner.jpg)
