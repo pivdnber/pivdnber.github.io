@@ -21,4 +21,6 @@ I'm currently research support staff in the department of [Rehabilitation Scienc
 
 ![LopenWatersportbaan](/images/1500x500twitterBanner.jpg)
 
+
+
 Check out a [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working, [follow me](https://twitter.com/SportSciSum) on twitter, or [get in touch](mailto:pieter.vandenberghe@ugent.be)! 

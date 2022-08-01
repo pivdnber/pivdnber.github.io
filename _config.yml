@@ -15,7 +15,7 @@ description              : &description "personal description"
 url                      : https://pivdnber.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pivdnber/pivdnber.github.io"
-teaser                   : "500x300.png"
+teaser                   : "/images/500x300.png"
 logo                     : "\images\88x88.png" # poging om logo toe te voegen
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
