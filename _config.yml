@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ghent, Belgium"
-  email            : "mailto:pieter.vandenberghe@ugent.be"
+  email            : "pieter.vandenberghe@ugent.be"
   pubmed           :  # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sE7vYWcAAAAJ"
   github           : "https://github.com/pivdnber/"
