@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pieter Van den Berghe / About me"
+title                    : "PIETER VAN DEN BERGHE"
 title_separator          : "-"
-name                     : &name "PIeter Van den Berghe"
+name                     : &name "Pieter Van den Berghe"
 description              : &description "personal description"
 url                      : https://pivdnber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,10 +84,13 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ghent, Belgium"
-  employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
+  email            : "mailto:pieter.vandenberghe@ugent.be"
+  pubmed           :  # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sE7vYWcAAAAJ"
-  email            :
+  github           : "https://github.com/pivdnber/"
+  twitter          : "@SportSciSum"
+  orcid            : "https://orcid.org/0000-0001-8205-5491"
+  employer         :
   researchgate     :  # example: "https://www.researchgate.net/profile/Pieter-Van-Den-Berghe/"
   uri              :
   bitbucket        :
@@ -96,20 +99,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pivdnber/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8205-5491"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@SportSciSum"
   vine             :
   weibo            :
   xing             :
