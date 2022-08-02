@@ -59,6 +59,4 @@ Peer reviewed publications are described in chronological order. Representative 
 11. Robberechts, P., Derie, R., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.
     [Predicting gait events from tibial acceleration in rearfoot running: a structured machine learning approach.](https://doi.org/10.1016/j.gaitpost.2020.10.035) *Gait & Posture*, 2021, 116544.
 
-
-
 You can also find my publications at [Google Scholar‬](https://scholar.google.be/citations?hl=nl&user=sE7vYWcAAAAJ) and [Researchgate]((https://www.researchgate.net/profile/Pieter-Van-Den-Berghe)). Feel free to [tweet](https://twitter.com/SportSciSum) or [email](mailto:pieter@vandenberghe@ugent.be) me if you can’t find a personal copy.
