@@ -223,14 +223,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-# dryft documentation
-  - scope:
-      path: ""
-      type: dryft
-    values:
-      layout: single
-      author_profile: false
-      share: false
 # comps collection documentation
   - scope:
       path: ""
@@ -262,7 +254,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
-  - jekyll-twitter-plugin
+#  - jekyll-twitter-plugin
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
