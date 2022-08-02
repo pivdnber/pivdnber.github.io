@@ -7,21 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PIETER VAN DEN BERGHE"
+title                    : "RYAN ALCANTARA"
 title_separator          : "-"
-masthead_title           : "My Custom Title" #nieuw toegevoegd voor aparte tittel
-name                     : &name "Pieter Van den Berghe"
-description              : &description "personal description"
-url                      : https://pivdnber.github.io # the base hostname & protocol for your site
+name                     : &name "Ryan Alcantara"
+description              : &description "Ryan's Personal Website"
+url                      : https://alcantarar.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pivdnber/pivdnber.github.io"
-teaser                   : "/images/500x300.png"
-logo                     : "website_thesislogo_LIR.jpg" # poging om logo toe te voegen
+repository               : "alcantarar/alcantarar.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -52,48 +50,47 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : r8r6zpm17seYjmGHPgcWnTdwFeIzUCfDkYI1F7RF8oU
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : Ryan_Alcantara_
+  card                   : summary
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  header_image.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  name                   : Ryan Alcantara
+  links:
+    - https://twitter.com/Ryan_Alcantara_
+    - https://github.com/alcantarar
 
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-138158874-1"
 
 
 # Site Author
 author:
-  name             : "Pieter Van den Berghe"
-  avatar           : "profile.jpg"
-  bio              : "PhD in Health Sciences. Supports research in the Rehabilitation Sciences."
-  location         : "Ghent, Belgium"
-  email            : "pieter.vandenberghe@ugent.be"
-  pubmed           :  # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sE7vYWcAAAAJ"
-  github           : "pivdnber/"
-  twitter          : "@SportSciSum"
-  orcid            : "https://orcid.org/0000-0001-8205-5491"
+  name             : "Ryan Alcantara"
+  avatar           : "profile_RA.jpg"
+  bio              : "Postdoctoral Research Fellow, Stanford University"
+  location         : "Palo Alto, California, USA"
   employer         :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Pieter-Van-Den-Berghe/"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
+  googlescholar    : "https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en"
+  email            : "ryan.alcantara@stanford.edu"
+  researchgate     : "https://www.researchgate.net/profile/Ryan_Alcantara"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,17 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : "alcantarar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  twitter          : Ryan_Alcantara_
   vine             :
   weibo            :
   xing             :
@@ -131,27 +131,26 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
-encoding: "utf-9"
+encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -177,33 +176,19 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
-  publications:
+  dryft:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  comps-collection:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -211,15 +196,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -229,23 +206,40 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: archive
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+# dryft documentation
+  - scope:
+      path: ""
+      type: dryft
+    values:
+      layout: single
+      author_profile: false
+      share: false
+# comps collection documentation
+  - scope:
+      path: ""
+      type: comps-collection
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
 
 # Sass/SCSS
 sass:
@@ -267,6 +261,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-twitter-plugin
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -311,3 +307,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
