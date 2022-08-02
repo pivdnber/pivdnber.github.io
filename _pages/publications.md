@@ -5,19 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 Peer reviewed publications are described in chronological order. Representative articles are highlighted. Open Access articles start with 'Free Full-Text'.
 
-<u>PhD dissertation ✨</u>
+✨<u>PhD dissertation </u>✨
 
 1. **Van den Berghe, P.**. Motor retraining by real-time sonic feedback: understanding
    strategies of low impact running.  
@@ -53,7 +43,7 @@ Peer reviewed publications are described in chronological order. Representative 
    [Free Full-Text | One hundred marathons in 100 days: Unique biomechanical signature and the evolution of force characteristics and bone density](https://doi.org/10.1016/j.jshs.2021.03.009). 
    *Journal of Sport and Health Science*, 2022, 11:347–57.
 
-<u>Where running biomechanics meets machine learning</u>
+✨<u>Where running biomechanics meets machine learning</u>✨
 
 9. Derie, R., Robberechts, P., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.
    [Free Full-Text | Tibial Acceleration-Based Prediction of Maximal Vertical Loading Rate During Overground Running: A Machine Learning Approach](https://doi.org/10.3389/fbioe.2020.00033) 
@@ -62,7 +52,7 @@ Peer reviewed publications are described in chronological order. Representative 
 10. Robberechts, P., Derie, R., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J. [Predicting gait events from tibial acceleration in rearfoot running: a structured machine learning approach.](https://doi.org/10.1016/j.gaitpost.2020.10.035) 
     *Gait & Posture*, 2021, 116544.
 
-d
+
 
 11. Derie, R., **Van den Berghe, P.**, Gerlo, J., Bonnaerens, S., Van Caekenberghe,
     I., Fiers, P., De Clercq, D., Segers, V.
@@ -70,44 +60,3 @@ d
     *Scandinavian Journal of Medicine & Science in Sports*, 2022, 32:1142–52.
 
 You can also find my publications at [Google Scholar‬](https://scholar.google.be/citations?hl=nl&user=sE7vYWcAAAAJ) and [Researchgate]((https://www.researchgate.net/profile/Pieter-Van-Den-Berghe)). Feel free to [tweet](https://twitter.com/SportSciSum) or [email](mailto:pieter@vandenberghe@ugent.be) me if you can’t find a personal copy. 
-
-# Presentations
-
-Selection of first author presentations during the PhD candidancy in reverse chronological order:
-
-1. *Van den Berghe, P*., Derie, R., Bauwens, P., Gerlo, J., Segers, V., Leman, M., De Clercq, D. Influence of music-based feedback training on peak tibial acceleration during running outside of the biomechanics laboratory. 
-   **Oral** presentation at the 15th biennial Footwear Biomechanics Symposium. Digital due to COVID-19.
-   
-   > Recipient of the FBS Innovation Award 2021
-
-2. *Van den Berghe P.*, Derie R., Segers V., Leman M., De Clercq D. Feedback-based running retraining for impact reduction : the relationship between peak tibial acceleration and step frequency. at the XXVIII Congr Int Soc Biomech (ISB 2021) Stockholm, Digital due to COVID-19. 
-   
-   > Finalist in the David Winter Young Investigator Award -poster competition 2021
-
-3. *Van den Berghe, P.*, Segers, V., Breine, B., De Clercq, D. (2021). Biomechanical analysis of a long-distance runner who finished 100 marathons in 100 days.
-   **Oral** presentation at the 11th Annual Meeting of the Rockie Mountain American Society of Biomechanics Symposium. Digital due to COVID-19.
-   
-   > Recipient of the Most Amazing Podium Presentation Award 2021
-
-4. *Van den Berghe, P.*, De Bock, S., Giandolini, M., Breine, B., Gruber, A., Six, J., … De Clercq, D. (2019). Multi-directional peak tibial accelerations in over-ground, level, running: a multicenter study.
-   **Oral** presentation at the XXVII Congress of the International Society of Biomechanics in Calgary, Canada.
-   
-   > Recipient of an International Society of Biomechanics' matching
-   > Dissertation Grant 2019
-
-5. *Van den Berghe, P.*, Derie, R., Warlop, L., Breine, B., Gerlo, J., Leman, M., & De Clercq, D. (2019). Consolidation of the atypical rearfoot strike pattern in distance runners and linkage to tibial shocks. 
-   Footwear Science, ([Vol 11, No sup1, S146-S147](https://doi.org/10.1080/19424280.2019.1606295)). 
-   **Oral** presentation at the 14th Footwear Biomechanics Symposium in Kananaskis, Canada.
-   
-   > Recipient of the first Footwear Biomechanics Group's travel grant 2019
-
-6. *Van den Berghe, P.*, Lorenzoni, V., Gerlo, J., Breine, B., Derie, R., Six, J., Leman, M., De Clercq, D. (2018). Real-time music-based biofeedback to reduce impact loading during over-ground running. 
-   **Oral** presentation at the 42nd annual meeting of the American Society of
-   Biomechanics in Rochester, Minnesota, USA.
-   
-   > Winner of an American Society of Biomechanics' PhD student competition 2018
-
-7. *Van den Berghe, P.*, Six, J., Gerlo, J., Breine, B., Derie, R., Leman, M., & De Clercq, D. (2018). Resultant peak tibial acceleration is a measure of impact loading in overground rearfoot running : a validation and reliability study across speeds. 
-   **Oral** presentation at the 8th World congress of Biomechanics conference abstracts in Dublin, Ireland. 
-   
-   > Recipient of an inscription voucher following a top-20 place in the European Society of Biomechanics' student award competition for World Congress of Biomechanics 2018
