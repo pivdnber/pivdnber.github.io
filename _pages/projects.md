@@ -4,8 +4,7 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /projects/
 ---
 
 Other business and past projects
@@ -44,7 +43,5 @@ This year I participated in the European Company Sports Games, Ekiden marathon r
 I am a huge advocate of communicating technical science to a broad audience. Multiple actions have been undertaken to his end. Few examples are the VLIR thesis and National Biomechanics Day threads, a yearly invited meeting with students from the University of Florida to discuss scientific research. 
 
 Furthermore, I try to stimulate the scientific process by providing the occasional service of peer review. In the past 12 months I have reviewed for Nature Scientific Reports, Scandinavian Journal of Medicine & Science in Sports Medicine & Science in Sports & Exercise, Journal of Biomechanics, Biomedical Signal Processing and Control, Journal of Applied Biomechanics, Sports biomechanics, Frontiers in Sports and Active Living and Plos One. 
-
-
 
 It is hearthwarming to read that an openly signed peer reviews has 
