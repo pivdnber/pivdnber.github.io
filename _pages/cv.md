@@ -1,16 +1,12 @@
 ---
-layout: single
+layout: archive
 title: "CV"
-sitemap: false
-permalink: /CV/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-header:
-  image: assets/images/banner.jpg
 ---
 
-<embed src="https://belovanna.github.io/assets/download/sample.pdf" type="application/pdf" classes: wide/>
-
+embed src="https://alcantarar.github.io/files/Alcantara_CV.pdf" width="500" height="500" type='application/pdf'
 
 
