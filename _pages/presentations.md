@@ -13,39 +13,41 @@ author_profile: false
 {% include base_path %}
 
 <!--- below will turn page into collection, pulling from _presentations folder --->
+
 <!---
 {% for post in site.presentations reversed %}
   {% include archive-single.html %}
 {% endfor %}
 --->
-* **Alcantara, R.** & Grabowski, A. **(2021)**. [Biomechanics of the Inside and Outside Leg When Sprinting Along Flat Curves.](https://www.youtube.com/watch?v=MrSFyqg1FJk)
-American Society of Biomechanics, Rocky Mountain Meeting.
 
-* Diaz, G., **Alcantara, R.,** Grabowski, A. **(2021)**. Effects of Curve Radii on Maximum Curve Sprinting Velocity in Athletes
-With a Leg Amputation. American Society of Biomechanics, Rocky Mountain Meeting.
+Selection of first author presentations during the PhD candidancy in reverse chronological order:
 
-* **Alcantara, R. (2020).** [Prosthetic Leg Design, Force Production, and Curve Sprint Performance: A Pilot Study.](https://www.ryan-alcantara.com/projects/p93_ISBS2020/) International Society of Biomechanics in Sports
 
-* **Alcantara, R.**, Day, E., Hahn, M., Grabowski, A. **(2019)**. Sacral Accelerations Predict Whole Body Kinematics
-and Kinetics During Running. International Society of Biomechanics.
 
-* **Alcantara, R.**, Day, E., Hahn, M., Grabowski, A. **(2019)**. Sacral Accelerations Predict Whole Body Kinematics
-and Kinetics During Running. American Society of Biomechanics, Rocky Mountain Meeting.
+1. *Van den Berghe, P*., Derie, R., Bauwens, P., Gerlo, J., Segers, V., Leman, M., De Clercq, D. Influence of music-based feedback training on peak tibial acceleration during running outside of the biomechanics laboratory. **Oral** presentation at the 15th biennial Footwear Biomechanics Symposium. Digital due to COVID-19.
+   
+   > Recipient of the FBS Innovation Award 2021
 
-* **Alcantara, R.**, Beck, O., Grabowski, A. **(2018)**. Mass added to a running-specific prosthesis increases
-metabolic power during running. American Society of Biomechanics, National Meeting.
+2. *Van den Berghe P.*, Derie R., Segers V., Leman M., De Clercq D. Feedback-based running retraining for impact reduction : the relationship between peak tibial acceleration and step frequency. at the XXVIII Congr Int Soc Biomech (ISB 2021) Stockholm, Digital due to COVID-19.
+   
+   > Finalist in the David Winter Young Investigator Award -poster competition 2021
 
-* **Alcantara, R.**, Beck, O., Grabowski, A. **(2018)**. Mass added to a running-specific prosthesis increases
-metabolic power during running. American Society of Biomechanics, Rocky Mountain Meeting.
+3. *Van den Berghe, P.*, Segers, V., Breine, B., De Clercq, D. (2021). Biomechanical analysis of a long-distance runner who finished 100 marathons in 100 days. **Oral** presentation at the 11th Annual Meeting of the Rockie Mountain American Society of Biomechanics Symposium. Digital due to COVID-19.
+   
+   > Recipient of the Most Amazing Podium Presentation Award 2021
 
-* **Alcantara, R.**, Trudeau, M., Brüggemann, G., Hamill, J., Rohr, E. **(2016)** Running Shoe Forefoot Bending
-Stiffness Affects Calf Muscle EMG. American Society of Biomechanics, Northwest Meeting.
+4. *Van den Berghe, P.*, De Bock, S., Giandolini, M., Breine, B., Gruber, A., Six, J., … De Clercq, D. (2019). Multi-directional peak tibial accelerations in over-ground, level, running: a multicenter study. **Oral** presentation at the XXVII Congress of the International Society of Biomechanics in Calgary, Canada.
+   
+   > Recipient of an International Society of Biomechanics' matching Dissertation Grant 2019
 
-* **Alcantara, R.** & Wall-Scheffler, C. **(2016)**. Running With A Stroller: Kinematic and Energetic Changes Across
-Different Stroller Pushing Techniques. American College of Sports Medicine Annual Meeting.
+5. *Van den Berghe, P.*, Derie, R., Warlop, L., Breine, B., Gerlo, J., Leman, M., & De Clercq, D. (2019). Consolidation of the atypical rearfoot strike pattern in distance runners and linkage to tibial shocks. Footwear Science, ([Vol 11, No sup1, S146-S147](https://doi.org/10.1080/19424280.2019.1606295)). **Oral** presentation at the 14th Footwear Biomechanics Symposium in Kananaskis, Canada.
+   
+   > Recipient of the first Footwear Biomechanics Group's travel grant 2019
 
-* **Alcantara, R.** & Wall-Scheffler, C. **(2015)**. Push it, Push it Real Good: The energetic cost of running with a
-stroller. Murdock College Science Research Program.
+6. *Van den Berghe, P.*, Lorenzoni, V., Gerlo, J., Breine, B., Derie, R., Six, J., Leman, M., De Clercq, D. (2018). Real-time music-based biofeedback to reduce impact loading during over-ground running. **Oral** presentation at the 42nd annual meeting of the American Society of Biomechanics in Rochester, Minnesota, USA.
+   
+   > Winner of an American Society of Biomechanics' PhD student competition 2018
 
-* **Alcantara, R.** & Wall-Scheffler, C. **(2015)**. Push it, Push it Real Good: The energetic cost of running with a
-stroller. Seattle Pacific University Summer Research Symposium.
+7. *Van den Berghe, P.*, Six, J., Gerlo, J., Breine, B., Derie, R., Leman, M., & De Clercq, D. (2018). Resultant peak tibial acceleration is a measure of impact loading in overground rearfoot running : a validation and reliability study across speeds. **Oral** presentation at the 8th World congress of Biomechanics conference abstracts in Dublin, Ireland.
+   
+   > Recipient of an inscription voucher following a top-20 place in the European Society of Biomechanics' student award competition for World Congress of Biomechanics 2018
