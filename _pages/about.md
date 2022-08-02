@@ -13,6 +13,7 @@ redirect_from:
 
 I’m a human movement scientist enthusiastic about sports biomechanics, assistive technology, and reproducibility in science. My general research interests include biofeedback applications, running-related injuries, locomotion mechanics and energetics.
 <br>
+<br>
 Throughout my M.Sc. I became interested in sports sciences, particularly in human movement biomechanics and physiology, and completed the minor in scientific research at the research unit for [Biomechanics of Human Movement](https://www.ugent.be/ge/bsw/en/research/biomechanics) in Ghent, Belgium. I received my Ph.D. late 2021 from Ghent University, where I worked in the high-performant [Sport Science Laboratory-Jacques Rogge](https://www.ugent.be/ge/bsw/en/sportlab) founded by professor Dirk De Clercq, who was also my first promotor. The project of my FWO fellowship was ‘Low Impact Running’; a rather unique multi-disciplinary project on music-based feedback in human running that resulted in multiple peer-reviewed publications, societal research awards, national television exposure, invited presentations, and a patent application that is catalyzing an academic spin-off.
 
 # What am I up to?
