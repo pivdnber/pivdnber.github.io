@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RYAN ALCANTARA"
+title                    : "PIETER VAN DEN BERGHE"
 title_separator          : "-"
-name                     : &name "Ryan Alcantara"
-description              : &description "Ryan's Personal Website"
-url                      : https://alcantarar.github.io # the base hostname & protocol for your site 
+name                     : &name "Pieter Van den Berghe"
+description              : &description "Pieter's Personal Website"
+url                      : https://pivdnber.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alcantarar/alcantarar.github.io"
+repository               : "pivdnber/pivdnber.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,14 +50,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : r8r6zpm17seYjmGHPgcWnTdwFeIzUCfDkYI1F7RF8oU
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Ryan_Alcantara_
+  username               : SportSciSum
   card                   : summary
 facebook:
   username               :
@@ -68,29 +68,29 @@ og_image                 :  header_image.jpg # Open Graph/Twitter default site i
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : Ryan Alcantara
+  name                   : Pieter Van den Berghe
   links:
-    - https://twitter.com/Ryan_Alcantara_
-    - https://github.com/alcantarar
+    - https://twitter.com/sportSciSum
+    - https://github.com/pivdnber
 
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-138158874-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Ryan Alcantara"
-  avatar           : "profile_RA.jpg"
-  bio              : "Postdoctoral Research Fellow, Stanford University"
-  location         : "Palo Alto, California, USA"
+  name             : "Pieter Van den Berghe"
+  avatar           : "profile.jpg"
+  bio              : "PhD in Health Sciences. Research support in Rehabilitation Sciences"
+  location         : "Ghent, Belgium"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+alcantara"
-  googlescholar    : "https://scholar.google.com/citations?user=4fiwhicAAAAJ&hl=en"
-  email            : "ryan.alcantara@stanford.edu"
-  researchgate     : "https://www.researchgate.net/profile/Ryan_Alcantara"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sE7vYWcAAAAJ"
+  email            : "pieter.vandenberghe@ugent.be"
+  researchgate     : "https://www.researchgate.net/profile/Pieter-Van-Den-Berghe/"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alcantarar"
+  github           : "pivdnber"
   google_plus      :
   keybase          :
   instagram        :
