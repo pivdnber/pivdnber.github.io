@@ -4,7 +4,7 @@ excerpt: Other business and past projects
 layout: collection
 header:
   overlay_image: header_image.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.01
 
 permalink: /projects/
 #collection: projects
