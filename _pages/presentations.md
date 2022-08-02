@@ -20,7 +20,7 @@ author_profile: false
 {% endfor %}
 --->
 
-Selection of first author presentations during the PhD candidancy in reverse chronological order:
+Selection of first author presentations during the PhD candidancy and shown in reverse chronological order:
 
 1. Van den Berghe, P., Derie, R., Bauwens, P., Gerlo, J., Segers, V., Leman, M., De Clercq, D. Influence of music-based feedback training on peak tibial acceleration during running outside of the biomechanics laboratory. 
    **Oral** presentation at the 15th biennial Footwear Biomechanics Symposium. Digital due to COVID-19.

@@ -16,6 +16,8 @@ share: true
 
 Peer reviewed publications are described in chronological order. Representative articles are highlighted. Open Access articles start with 'Free Full-Text'.
 
+
+
 ✨<u>PhD dissertation </u> ✨
 
 1. **Van den Berghe, P.**. Motor retraining by real-time sonic feedback: understanding
@@ -45,7 +47,7 @@ Peer reviewed publications are described in chronological order. Representative 
 8. **Van den Berghe P.**, Breine, B., Haeck, E., & De Clercq, D.
    [Free Full-Text | One hundred marathons in 100 days: Unique biomechanical signature and the evolution of force characteristics and bone density](https://doi.org/10.1016/j.jshs.2021.03.009). *Journal of Sport and Health Science*, 2022, 11:347–57.
 
-✨<u>Beyond the dissertation</u>✨
+✨<u>Beyond and connected to the dissertation</u>✨
 
 9. Derie, R., **Van den Berghe, P.**, Gerlo, J., Bonnaerens, S., Van Caekenberghe,
    I., Fiers, P., De Clercq, D., Segers, V.
@@ -59,4 +61,4 @@ Peer reviewed publications are described in chronological order. Representative 
 11. Robberechts, P., Derie, R., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.
     [Predicting gait events from tibial acceleration in rearfoot running: a structured machine learning approach.](https://doi.org/10.1016/j.gaitpost.2020.10.035) *Gait & Posture*, 2021, 116544.
 
-You can also find my publications at [Google Scholar‬](https://scholar.google.be/citations?hl=nl&user=sE7vYWcAAAAJ) and [Researchgate]((https://www.researchgate.net/profile/Pieter-Van-Den-Berghe)). Feel free to [tweet](https://twitter.com/SportSciSum) or [email](mailto:pieter@vandenberghe@ugent.be) me if you can’t find a personal copy.
+You can also find my publications at [Google Scholar‬](https://scholar.google.be/citations?hl=nl&user=sE7vYWcAAAAJ) and [Researchgate](https://www.researchgate.net/profile/Pieter-Van-Den-Berghe). Feel free to [tweet](https://twitter.com/SportSciSum) or [email](mailto:pieter@vandenberghe@ugent.be) me if you can’t find a personal copy.
