@@ -25,7 +25,7 @@ I am the Social Media Editor of Journal of Sports Sciences. In this role I maint
 
 I am a huge advocate of communicating technical science to a broad audience and international peers. Multiple actions have been undertaken to his end. Two examples are the pretty popular [VLIR thesis thread](https://twitter.com/SportSciSum/status/1449132653324742657) and the yearly interview with students from the University of Florida as part of their Neuromuscular Aspects of Exercise course.
 
-![VLIRtwitterthreadScreenshot](/images/VLIRtwitterthreadScreenshot.png){:width="600x"}
+[![VLIRtwitterthreadScreenshot](/images/VLIRtwitterthreadScreenshot.png){:width="600x"}](https://twitter.com/SportSciSum/status/1449132653324742657)
 
 ### Peer review
 
