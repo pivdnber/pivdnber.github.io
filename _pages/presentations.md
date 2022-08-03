@@ -20,7 +20,7 @@ author_profile: false
 {% endfor %}
 --->
 
-First author presentations during the PhD candidacy, which are shown in a reverse chronological order:
+First author presentations during the PhD candidacy of which the titles are listed in a reverse chronological order:
 
 1. Van den Berghe, P., Derie, R., Bauwens, P., Gerlo, J., Segers, V., Leman, M., De Clercq, D. Influence of music-based feedback training on peak tibial acceleration during running outside of the biomechanics laboratory. 
    <br>

@@ -19,10 +19,9 @@ Peer reviewed publications are described in chronological order. Representative 
 ## PhD dissertation
 
 1. **Van den Berghe, P.** <br>Motor retraining by real-time sonic feedback: understanding
-   strategies of low impact running. <br>  
-   *British Journal of Sports Medicine*. 
+   strategies of low impact running. <br> *British Journal of Sports Medicine*. 
    Accepted.
-
+   
 2. **Van den Berghe P.**, Derie, R., Bauwens, P., Gerlo, J., Segers, V., Leman, M., & De Clercq, D.<br>
    [Reducing the peak tibial acceleration of running by music‐based biofeedback: A quasi‐randomized controlled trial](https://doi.org/10.1111/sms.14123).<br> *Scandinavian Journal of Medicine & Science in Sports*, 2022, 32(4), 698–709.
 
@@ -39,26 +38,26 @@ Peer reviewed publications are described in chronological order. Representative 
    [Validity and reliability of peak tibial accelerations as real-time measure of impact loading during over-ground rearfoot running at different speeds](https://doi.org/10.1016/j.jbiomech.2019.01.039).<br> *Journal of Biomechanics*, 2019, 86, 238–242.
 
 7. **Van den Berghe P.**, Warlop L., Derie R., Leman M., De Clercq D., Breine B.<br>
-   [Foot strike determines the center of pressure behavior and affects impact severity in heel-toe running](%5Bhttps://doi.org/10.1080/02640414.2021.2019991). <br>*Journal of Sports Sciences*, 2022, Apr 3;40(7):808–20.
+   [Foot strike determines the center of pressure behavior and affects impact severity in heel-toe running](https://doi.org/10.1080/02640414.2021.2019991). <br>*Journal of Sports Sciences*, 2022, Apr 3;40(7):808–20.
 
 8. **Van den Berghe P.**, Breine, B., Haeck, E., & De Clercq, D.<br>
    [Free Full-Text | One hundred marathons in 100 days: Unique biomechanical signature and the evolution of force characteristics and bone density](https://doi.org/10.1016/j.jshs.2021.03.009). <br>*Journal of Sport and Health Science*, 2022, 11:347–57.
 
 ## Where running biomechanics meets machine learning
 
-10. Derie, R., Robberechts, P., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.<br>
-    [Free Full-Text | Tibial Acceleration-Based Prediction of Maximal Vertical Loading Rate During Overground Running: A Machine Learning Approach](https://doi.org/10.3389/fbioe.2020.00033) <br>*Frontiers in Bioengineering and Biotechnology*, 2020, 8.
+9. Derie, R., Robberechts, P., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.<br>
+   [Free Full-Text | Tibial Acceleration-Based Prediction of Maximal Vertical Loading Rate During Overground Running: A Machine Learning Approach](https://doi.org/10.3389/fbioe.2020.00033) <br>*Frontiers in Bioengineering and Biotechnology*, 2020, 8.
 
-11. Robberechts, P., Derie, R., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.<br>
+10. Robberechts, P., Derie, R., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.<br>
     [Predicting gait events from tibial acceleration in rearfoot running: a structured machine learning approach.](https://doi.org/10.1016/j.gaitpost.2020.10.035) <br>*Gait & Posture*, 2021, 116544.
 
 ## Beyond and connected with the dissertation
 
-12. Derie, R., **Van den Berghe, P.**, Gerlo, J., Bonnaerens, S., Van Caekenberghe,
+11. Derie, R., **Van den Berghe, P.**, Gerlo, J., Bonnaerens, S., Van Caekenberghe,
     I., Fiers, P., De Clercq, D., Segers, V.<br> [Biomechanical adaptations following a music-based biofeedback gait retraining program to reduce tibial shock: a randomized controlled trial](https://doi.org/10.1111/sms.14162). <br>*Scandinavian Journal of Medicine & Science in Sports*, 2022, 32:1142–52.
 
 ## Before the dissertation
 
-13. Malcolm P., Galle S., **Van den Berghe P.**, De Clercq D. <br>[Free Full-Text - Exoskeleton assistance symmetry matters: Unilateral assistance reduces metabolic cost, but relatively less than bilateral assistance](https://doi.org/10.1186/s12984-018-0381-z). <br> *J Neuroeng Rehabil*, 2018, 15:1, 74. 
+12. Malcolm P., Galle S., **Van den Berghe P.**, De Clercq D. <br>[Free Full-Text - Exoskeleton assistance symmetry matters: Unilateral assistance reduces metabolic cost, but relatively less than bilateral assistance](https://doi.org/10.1186/s12984-018-0381-z). <br> *J Neuroeng Rehabil*, 2018, 15:1, 74. 
 
 You can also find my publications at [Google Scholar‬](https://scholar.google.be/citations?hl=nl&user=sE7vYWcAAAAJ) and [Researchgate](https://www.researchgate.net/profile/Pieter-Van-Den-Berghe). Feel free to [tweet](https://twitter.com/SportSciSum) or [email](mailto:pieter@vandenberghe@ugent.be) me if you can’t find a personal copy.
