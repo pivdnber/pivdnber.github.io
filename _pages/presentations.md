@@ -63,4 +63,4 @@ First author presentations during the PhD candidacy of which the titles are list
    
    > Recipient of an inscription voucher following a top-20 place in the European Society of Biomechanics' student award competition for World Congress of Biomechanics 2018
 
-![talksheader](/images/talksheader.jpg)
+![talksheader](/images/talksheader.png)
