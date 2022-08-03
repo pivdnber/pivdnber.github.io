@@ -1,5 +1,5 @@
 ---
-title: SERVICES
+title: PROJECTS
 excerpt: Past services and other business
 layout: collection
 header:
@@ -17,7 +17,7 @@ author_profile: false
 
 ### #JSS updates
 
-I am the Social Media Editor of Journal of Sports Sciences. In this role I maintain the @jsportssci Twitter account and provide daily updates to almost 50.000 followers.
+I am the Social Media Editor of Journal of Sports Sciences. In this role I maintain the [@jsportssci Twitter](https://twitter.com/JSportsSci) account and provide daily updates to almost 50.000 followers!
 
 ![JSSnew](/images/JSSnew.gif){:width="600x"}
 
@@ -41,7 +41,7 @@ From 2016 to 2019 I have been assisting during the open lab days at the waterspo
 
 ### Lab-in-the-field
 
-Part of my studies happened outside the lab and in the Topsporthal Vlaanderen, which is an athletic facility for sportspeople in Ghent. Colleagues and I set up a pretty unique lab-in-the-field, which involved built-in force and pressure plates, and a research-grade indoor position system for immediate speed feedback during periods of data collection.
+Part of my studies happened outside the lab and in an athletic facility of Topsporthal Vlaanderen, which has track and field training lanes for sportspeople located in Ghent. Colleagues and I set up a pretty unique lab-in-the-field, which involved built-in force and pressure plates in one of the lanes, and a research-grade indoor position system for immediate speed feedback during periods of data collection.
 
 ![TSHmonitoring](/images/TSHmonitoring.png){:width="600x"}
 
