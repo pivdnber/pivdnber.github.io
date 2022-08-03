@@ -19,7 +19,7 @@ author_profile: false
 
 I am the Social Media Editor of Journal of Sports Sciences. In this role I maintain the @jsportssci Twitter account and provide daily updates to almost 50.000 followers.
 
-![JSSnew](/images/JSSnew.gif)
+![JSSnew](/images/JSSnew.gif){:width="600x"}
 
 ### Popularizing science
 
@@ -43,7 +43,7 @@ From 2016 to 2019 I have been assisting during the open lab days at the waterspo
 
 Part of my studies happened outside the lab and in the Topsporthal Vlaanderen, which is an athletic facility for sportspeople in Ghent. Colleagues and I set up a pretty unique lab-in-the-field, which involved built-in force and pressure plates, and a research-grade indoor position system for immediate speed feedback during periods of data collection.
 
-![TSHmonitoring](/images/TSHmonitoring.png)
+![TSHmonitoring](/images/TSHmonitoring.png){:width="600x"}
 
 ## Time to play?!
 
@@ -57,4 +57,4 @@ This year I participated in the European Company Sports Games, Ekiden marathon r
 
 I volunteered for picking grapes in the historical Province of Beaujolais (France) during the *vendange* of 2019. A fun fact, after bottling, the sparkling wine of the domain Rouge en Beau became a personal gift for my PhD examination committee following graduation.
 
-![vendange2019](/images/vendange2019.gif)
+![vendange2019](/images/vendange2019.gif){:width="600x"}
