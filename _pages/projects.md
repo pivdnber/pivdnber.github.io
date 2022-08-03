@@ -13,7 +13,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-## Professional services
+# Professional services
 
 ### #JSS updates
 
@@ -31,7 +31,7 @@ I am a huge advocate of communicating technical science to a broad audience and 
 
 I aid the scientific process by providing the occasional service of peer review. In the past 12 months I have reviewed for Nature Scientific Reports, Scandinavian Journal of Medicine & Science in Sports Medicine & Science in Sports & Exercise, Journal of Biomechanics, Biomedical Signal Processing and Control, Journal of Applied Biomechanics, Sports biomechanics, Frontiers in Sports and Active Living and Plos One.
 
-## Lab technology
+# Lab technology
 
 ### Open lab days
 
@@ -45,11 +45,11 @@ Part of my studies happened outside the lab and in an athletic facility of Topsp
 
 ![TSHmonitoring](/images/TSHmonitoring.png){:width="600x"}
 
-## Time to play?!
+# Time to play?!
 
 ### Sports@work
 
-This year I participated in the European Company Sports Games, Ekiden marathon relay (running) and Mr. T Triathlon relay (cycling) as part of the instituational UGent team. I was a road captain of of Ghent University during the sports afternoon for staff 2022. Hurray for social sports activities after work!
+This year I participated in the European Company Sports Games, Ekiden marathon relay (running) and Mr. T Triathlon relay (cycling) as part of the instituational UGent team. I was one of their road captains during the sports afternoon for staff 2022. The yearly bike ride with the Biomechanics of Human movement group have been a real success. Hurray for social sports activities after work!
 
 ![teamactivities](/images/teamactivities.jpg)
 
