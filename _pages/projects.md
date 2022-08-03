@@ -4,7 +4,7 @@ excerpt: Past services and other business
 layout: collection
 header:
   overlay_image: header_image.jpg
-  overlay_filter: 0.01
+  overlay_filter: 0.3
 
 permalink: /projects/
 #collection: projects
@@ -47,7 +47,7 @@ Part of my studies happened outside the lab and in an athletic facility of Topsp
 
 ## Time to play?!
 
-### Sports@work 
+### Sports@work
 
 This year I participated in the European Company Sports Games, Ekiden marathon relay (running) and Mr. T Triathlon relay (cycling) as part of the instituational UGent team. I was a road captain of of Ghent University during the sports afternoon for staff 2022. Hurray for social sports activities after work!
 
