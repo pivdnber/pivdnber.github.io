@@ -18,7 +18,7 @@ Peer reviewed publications are described in chronological order. Representative 
 
 ## Originated from the PhD dissertation
 
-![PhDbanner](/images/PhDbanner.png)
+![PhDbanner](/images/PhDheader.png)
 
 - **Van den Berghe, P.** <br>Motor retraining by real-time sonic feedback: understanding strategies of low impact running. <br> *British Journal of Sports Medicine*. 
    Accepted.
