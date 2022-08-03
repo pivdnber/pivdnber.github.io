@@ -23,9 +23,9 @@ I am the Social Media Editor of Journal of Sports Sciences. In this role I maint
 
 ### Popularizing science
 
-I am a huge advocate of communicating technical science to a broad audience and international peers. Multiple actions have been undertaken to his end. Few examples are the [VLIR thesis](https://twitter.com/SportSciSum/status/1449132653324742657) and [National Biomechanics Day](https://mobile.twitter.com/SportSciSum/status/1116046786186158086) threads, a yearly invited interview with students from the University of Florida as part of their “Neuromuscular Aspects of Exercise” course.
+I am a huge advocate of communicating technical science to a broad audience and international peers. Multiple actions have been undertaken to his end. Two examples are the pretty popular [VLIR thesis thread](https://twitter.com/SportSciSum/status/1449132653324742657) and the yearly interview with students from the University of Florida as part of their “[Neuromuscular Aspects of Exercise](https://internationalcenter.ufl.edu/system/files/apk_4115_fa_20_mani_final_syllabus.pdf)” course.
 
-![VLIRtwitterthreadScreenshot](/images/VLIRtwitterthreadScreenshot.png)
+![VLIRtwitterthreadScreenshot](/images/VLIRtwitterthreadScreenshot.png){:width="600x"}
 
 ### Peer review
 
@@ -47,7 +47,7 @@ Part of my studies happened outside the lab and in the Topsporthal Vlaanderen, w
 
 ## Time to play?!
 
-### Work & sports
+### Sports@work 
 
 This year I participated in the European Company Sports Games, Ekiden marathon relay (running) and Mr. T Triathlon relay (cycling) as part of the instituational UGent team. I was a road captain of of Ghent University during the sports afternoon for staff 2022. Hurray for social sports activities after work!
 
