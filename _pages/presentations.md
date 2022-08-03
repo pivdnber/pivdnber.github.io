@@ -5,7 +5,7 @@ excerpt: |
   <br>
 header:
   overlay_image: header_image.jpg
-  overlay_filter: 0.01
+  overlay_filter: 0.3
 permalink: /presentations/
 author_profile: false
 ---
@@ -20,7 +20,7 @@ author_profile: false
 {% endfor %}
 --->
 
-Selection of first author presentations during the PhD candidancy and shown in reverse chronological order:
+First author presentations during the PhD candidacy, which are shown in a reverse chronological order:
 
 1. Van den Berghe, P., Derie, R., Bauwens, P., Gerlo, J., Segers, V., Leman, M., De Clercq, D. Influence of music-based feedback training on peak tibial acceleration during running outside of the biomechanics laboratory. 
    <br>
@@ -46,7 +46,7 @@ Selection of first author presentations during the PhD candidancy and shown in r
    
    > Recipient of an International Society of Biomechanics' matching Dissertation Grant 2019
 
-5. *Van den Berghe, P.*, Derie, R., Warlop, L., Breine, B., Gerlo, J., Leman, M., & De Clercq, D. (2019). Consolidation of the atypical rearfoot strike pattern in distance runners and linkage to tibial shocks. Footwear Science, ([Vol 11, No sup1, S146-S147](https://doi.org/10.1080/19424280.2019.1606295)). 
+5. Van den Berghe, P., Derie, R., Warlop, L., Breine, B., Gerlo, J., Leman, M., & De Clercq, D. (2019). Consolidation of the atypical rearfoot strike pattern in distance runners and linkage to tibial shocks. Footwear Science, ([Vol 11, No sup1, S146-S147](https://doi.org/10.1080/19424280.2019.1606295)). 
    <br>
    **Oral** presentation at the 14th Footwear Biomechanics Symposium in Kananaskis, Canada.
    

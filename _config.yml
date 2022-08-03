@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Pieter Van den Berghe"
   avatar           : "profile.jpg"
-  bio              : "PhD in Health Sciences. Ghent University affiliated."
+  bio              : "PhD in Health Sciences. Affiliated with Ghent University."
   location         : "Ghent, Belgium"
   employer         :
   pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pivdnber"
+  github           : # "pivdnber"
   google_plus      :
   keybase          :
   instagram        :
