@@ -11,15 +11,12 @@ redirect_from:
 - /about.html
 ---
 
-## Hello There!
+## Hello there!
 
-I have been trained in the movement and sports sciences. I am interested in a variety of topics including sports biomechanics, assistive technology, and reproducibility in science. My general research interests include feedback applications, running-related injuries, locomotion mechanics and energetics.
+I am a kinesiologist enthusiastic about human movement, sports injury and performance, assistive technology and reproducibility in science. My research has been about feedback applications, running-related injuries, locomotion mechanics and energetics.
+
 <br>
-<br>
-During my M.Sc. I became interested in sports sciences, more specifically in human movement biomechanics and physiology. I completed the minor in scientific research at the research unit for [Biomechanics of Human Movement](https://www.ugent.be/ge/bsw/en/research/biomechanics) in Ghent, Belgium. I received my Ph.D. late 2021 from Ghent University, where I worked at the  [Sport Science Laboratory-Jacques Rogge](https://www.ugent.be/ge/bsw/en/sportlab). The project of my FWO fellowship was ‘Low Impact Running’. It was a rather unique multi-disciplinary project on music-based feedback in human running that resulted in multiple peer-reviewed [publications](https://pivdnber.github.io/publications/), international [presentations](https://pivdnber.github.io/presentations/), societal research [awards](https://pivdnber.github.io/presentations/), broadcasting on [television](https://www.facebook.com/watch/?v=287761091944681), and a [patent](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20210819&DB=EPODOC&locale=en_EP&CC=US&NR=2021252338A1&KC=A1&ND=4) application that is catalyzing an academic [spin-off](https://player.vimeo.com/video/561829521?h=149c9d5643&amp;dnt=1&amp;app_id=122963).
 
-## What am I up to?
+This site is a bit skeletal since departing to Boston, USA, as I am pursueing post-doctoral research at Spaulding / Harvard Medical School. I'd love to connect with you [on LinkedIn](https://www.linkedin.com/in/pivdnber/) or [get in touch](mailto:pvdenberghe@mgb.org)!
 
-I'm currently research support staff affiliated with the department of [Rehabilitation Sciences](https://www.ugent.be/ge/reva/en) at campus UZ of Ghent University and am the social media Editor of [Journal of Sports Sciences](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rjsp20&). Check out a personal [project](https://https://www.ugent.be/ge/bsw/en/research/biomechanics/projects#motor-retraining-by-real-time-sonic-feedback---understanding-strategies-of-low-impact-running) I’ve been working. In my spare time I enjoy outdoors sports, travelling and creating moments to remember with my family.
 <br>    
-I'd love to connect with you. You can [follow me](https://twitter.com/SportSciSum) on twitter or [get in touch](mailto:pieter.vandenberghe@ugent.be)!
