@@ -23,12 +23,12 @@ You can find my full publication list at [Google Scholar‬](https://scholar.goo
 My PhD research was published as a BJSM PhD Academy Award, which aims "To gather the World's leading PhD graduates to share their research related to sports and exercise medicine.
 
 - **Van den Berghe, P.** <br>
-  [Free Full-Text - Motor retraining by real-time sonic feedback: understanding strategies of low impact running.](https://bjsm.bmj.com/content/bjsports/56/20/1196.full.pdf?ijkey=6Vv3uR75CwAYl52&keytype=ref). <br> *British Journal of Sports Medicine*, 2022, bjsports-2022-105750.
+  [Free Full-Text - Motor retraining by real-time sonic feedback: understanding strategies of low impact running](https://bjsm.bmj.com/content/bjsports/56/20/1196.full.pdf?ijkey=6Vv3uR75CwAYl52&keytype=ref). <br> *British Journal of Sports Medicine*, 2022, bjsports-2022-105750.
 
 Rather recently, I was invited by Drs. Peter Düking and Billy Sperlich to summarize several of the studies mentioned below in a book chapter with high quality graphics, published by Springer Nature.
 
 - **Van den Berghe, P.** <br>
-  [A primer on wearable technology for injury risk management in distance running. In: Individualizing Exercise and Training Procedures with Wearable Technologies–Addressing Common Problems of Athletes.](https://doi.org/10.1007/978-3-031-45113-3). <br> *Springer Nature*, 2024.
+  [A primer on wearable technology for injury risk management in distance running. In: Individualizing Exercise and Training Procedures with Wearable Technologies–Addressing Common Problems of Athletes](https://doi.org/10.1007/978-3-031-45113-3). <br> *Springer Nature*, 2024.
 
 Studies 1 to 5 concerned the development of a new strategy to measure impact continuously in real-time during distance running and to give instantaneous biofeedback to the runner, which enables high -impact runners to self-explore with running style adaptations that can lower impact intensity.
 
@@ -70,7 +70,6 @@ Study 7 investigated the long-term effects of a 3-week music-based biofeedback i
 
 - **Van den Berghe, P*.**, Derie R.*, Gerlo J., Bonnaerens S., Fiers P. Van Caekenberghe I., De Clercq D.,  Segers V.<br>
   [Learning effects in over-ground gait retraining: A 6-month follow-up of a quasi-randomized controlled trial](https://doi.org/10.1080/02640414.2024.2323849) <br>*Journal of Sports Sciences*, 2024, 42, 6.
-  
   [Free postprint version - Zenodo](https://zenodo.org/records/12122890?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQ5MmEzZDIyLTNkNzQtNDZmNC05MzVmLTA3ZjlmZTk1MzNlNSIsImRhdGEiOnt9LCJyYW5kb20iOiIxYzQ1ZjM2MjcyNjY2Yzc0ZTU5ZmNjMDA4MmJiMTk4MyJ9.G1pMMlg_Zsw-6-gxvso4xE627s_OtxtLSIOHz7p1sMob8w0ePzvDTkPXRrRai21z-VWGz9Oixg_OJoRvVXOfrg)
 
 Studies 8-11 provide insight into possible strategies of low impact running.
@@ -84,13 +83,12 @@ The findings from study 9 suggest that 1D peak tibial accelerations depend on th
 
 - **Van den Berghe P.**, Warlop L., Derie R., Leman M., De Clercq D., Breine B.<br>
   [Foot strike determines the center of pressure behavior and affects impact severity in heel-toe running](https://doi.org/10.1080/02640414.2021.2019991). <br>*Journal of Sports Sciences*, 2022, Apr 3;40(7):808–20.
-  
   [Free postprint version - Zenodo](https://zenodo.org/record/7628254)
 
 For study 10, the UGent research unit for Biomechanics of Human Movement had the opportunity to thoroughly describe, compare, and explain the running mechanics of a very successful long-distance runner who demonstrated low load and a high load capacity in comparison with a normative database of runners.
 
 - **Van den Berghe P.**, Breine, B., Haeck, E., & De Clercq, D.<br>
-  [Free Full-Text | One hundred marathons in 100 days: Unique biomechanical signature and the evolution of force characteristics and bone density](https://doi.org/10.1016/j.jshs.2021.03.009). <br>*Journal of Sport and Health Science*, 2022, 11:347–57.
+  [Free Full-Text - One hundred marathons in 100 days: Unique biomechanical signature and the evolution of force characteristics and bone density](https://doi.org/10.1016/j.jshs.2021.03.009). <br>*Journal of Sport and Health Science*, 2022, 11:347–57.
 
 Study 11 investigated the impact of foot strike patterns on tibial accelerations in runners. It was a collaborative effort between international research groups active in academia and industry comprises a rather unique multi-center construct.  The results showed that forefoot strikes had higher peak tibial accelerations compared to rearfoot strikes. This difference is important for applications like running monitoring and biofeedback.
 
@@ -103,7 +101,7 @@ Where running biomechanics meets machine learning! Studies 11 and 12 involve col
   [Predicting gait events from tibial acceleration in rearfoot running: a structured machine learning approach.](https://doi.org/10.1016/j.gaitpost.2020.10.035) <br>*Gait & Posture*, 2021, 116544.
 
 - Derie, R., Robberechts, P., **Van den Berghe, P.**, Gerlo, J., De Clercq, D., Segers, V., & Davis, J.<br>
-  [Free Full-Text | Tibial Acceleration-Based Prediction of Maximal Vertical Loading Rate During Overground Running: A Machine Learning Approach](https://doi.org/10.3389/fbioe.2020.00033) <br>*Frontiers in Bioengineering and Biotechnology*, 2020, 8.
+  [Free Full-Text - Tibial Acceleration-Based Prediction of Maximal Vertical Loading Rate During Overground Running: A Machine Learning Approach](https://doi.org/10.3389/fbioe.2020.00033) <br>*Frontiers in Bioengineering and Biotechnology*, 2020, 8.
 
 ## Exoskeleton-assisted walking and metabolic energy consumption
 
@@ -112,7 +110,6 @@ Where running biomechanics meets machine learning! Studies 11 and 12 involve col
 This study investigated the effects of unilateral and bilateral exoskeleton assistance during walking. Results showed that both unilateral and bilateral assistance reduced the metabolic cost, but bilateral assistance was more effective.  The study highlights the importance of assistance symmetry for maximizing metabolic benefits in exoskeleton-assisted walking. 
 
 - Malcolm P., Galle S., **Van den Berghe P.**, De Clercq D. <br>
-  
   [Free Full-Text - Exoskeleton assistance symmetry matters: Unilateral assistance reduces metabolic cost, but relatively less than bilateral assistance](https://doi.org/10.1186/s12984-018-0381-z). <br> *J Neuroeng Rehabil*, 2018, 15:1, 74. 
 
 ## Human tissue imaging
