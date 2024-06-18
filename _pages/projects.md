@@ -23,9 +23,9 @@ As the Social Media Editor for the esteemed Journal of Sports Sciences, I have t
 
 I wrote an Editorial about social media use in the sports sciences that you can read [here](https://www.tandfonline.com/doi/full/10.1080/02640414.2024.2305533). 
 
-I enjoy creating visual abstracts like infographics to make complex information accessible to non-scientists, even though they can sometimes lead to oversimplification or misinterpretations. What do you think of my latest visual abstract?
+I enjoy creating visual abstracts like infographics to make complex information accessible to non-scientists, even though they can sometimes lead to oversimplification or misinterpretations. What do you think of the visual abstract shown underneath?
 
-![JSSnew](/images/JSSinfographic.png){:width="600x"}
+![JSSnew](/images/JSSinfographic.jpg){:width="600x"}
 
 ### Inspiring Future Scientists:
 
