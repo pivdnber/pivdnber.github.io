@@ -19,14 +19,13 @@ My passion for science goes beyond the lab and into the digital world. Here's a 
 
 As the Social Media Editor for the esteemed Journal of Sports Sciences, I have the privilege of managing the [@jsportssci Twitter](https://twitter.com/JSportsSci) account and provide daily updates to almost 50.000 followers. Sharing the latest discoveries and engaging with a vibrant community of nearly 50,000 followers is so much fun!
 
-
 ![JSSnew](/images/JSSnew.gif){:width="600x"}
 
-I wrote an Editorial about social media use in the sports sciences that you can read here https://www.tandfonline.com/doi/full/10.1080/02640414.2024.2305533. 
+I wrote an Editorial about social media use in the sports sciences that you can read [here](https://www.tandfonline.com/doi/full/10.1080/02640414.2024.2305533). 
 
 I enjoy creating visual abstracts like infographics to make complex information accessible to non-scientists, even though they can sometimes lead to oversimplification or misinterpretations. What do you think of my latest visual abstract?
 
-![JSSnew](/images/VandenBerghe-Derie_JSS2024_graphical abstract.jpg){:width="600x"}
+![JSSnew](/images/JSSinfographic.png){:width="600x"}
 
 ### Inspiring Future Scientists:
 
