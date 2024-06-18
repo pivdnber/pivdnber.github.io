@@ -18,7 +18,7 @@ You can find my full publication list at [Google Scholar‬](https://scholar.goo
 
 ## Running biomechanics, impact loading, and wearable biofeedback
 
-![phdheader](/images/phdheader.png)
+![phdheader](/images/ESBimage.png){:width="600x"}
 
 My PhD research was published as a BJSM PhD Academy Award, which aims "To gather the World's leading PhD graduates to share their research related to sports and exercise medicine.
 
@@ -107,7 +107,7 @@ Where running biomechanics meets machine learning! Studies 11 and 12 involve col
 
 ## Exoskeleton-assisted walking and metabolic energy consumption
 
-![phdheader](/images/exowalking.png)
+![phdheader](/images/exowalking.png){:width="600x"}
 
 This study investigated the effects of unilateral and bilateral exoskeleton assistance during walking. Results showed that both unilateral and bilateral assistance reduced the metabolic cost, but bilateral assistance was more effective.  The study highlights the importance of assistance symmetry for maximizing metabolic benefits in exoskeleton-assisted walking. 
 
