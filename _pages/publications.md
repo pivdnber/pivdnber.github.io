@@ -37,7 +37,7 @@ Study 1 lays the foundation of the measurement module for novel wearable technol
 - **Van den Berghe, P.**, Six, J., Gerlo, J., Leman, M., & De Clercq, D.<br>
   [Validity and reliability of peak tibial accelerations as real-time measure of impact loading during over-ground rearfoot running at different speeds](https://doi.org/10.1016/j.jbiomech.2019.01.039).<br> *Journal of Biomechanics*, 2019, 86, 238–242.
   
-  [Free postprint version | Zenodo](https://zenodo.org/record/2581448)
+  [Free postprint version - Zenodo](https://zenodo.org/record/2581448)
 
 The feedback module is described in study. A musically inspired feedback strategy was developed that distorts music. The level of distortion was logically coupled to the level of impact.
 
