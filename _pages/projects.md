@@ -1,6 +1,6 @@
 ---
 title: PROJECTS
-excerpt: Past services and other business
+excerpt: Bringing Sports Sciences to Life:My experiences
 layout: collection
 header:
   overlay_image: header_image.jpg
@@ -13,22 +13,24 @@ permalink: /projects/
 author_profile: false
 ---
 
-### Sports Sciences updates
+My passion for science goes beyond the lab and into the digital world. Here's a glimpse into how I've been actively involved in this exciting field:
 
-In the role of Social Media Editor of Journal of Sports Sciences, I maintain the [@jsportssci Twitter](https://twitter.com/JSportsSci) account and provide daily updates to almost 50.000 followers.
+### Connecting with a Global Audience
+
+As the Social Media Editor for the esteemed Journal of Sports Sciences, I have the privilege of managing the [@jsportssci Twitter](https://twitter.com/JSportsSci) account and provide daily updates to almost 50.000 followers. Sharing the latest discoveries and engaging with a vibrant community of nearly 50,000 followers is so much fun!
+
+
 
 ![JSSnew](/images/JSSnew.gif){:width="600x"}
 
+### Inspiring Future Scientists:
 
-
-### Open lab days demonstration
-
-I assisted during the open lab days 2016-2019 in the Sport Science Laboratory-Jacques Rogge, Ghent, Belgium. The event aimed to enthuse students about research-grade technologies used in sports sciences. As part of this event, I hosted a demonstration of 3D motion capture with real-time visualization.
+From 2016 to 2019, I had the opportunity to contribute to the Open Lab Days at the Sport Science Laboratory-Jacques Rogge in Ghent, Belgium. The event aimed to enthuse students about research-grade technologies used in sports and rehabilitaiton sciences. My role involved showcasing cutting-edge technologies, including a captivating demonstration of 3D motion capture with real-time visualization, sparking curiosity and enthusiasm in aspiring sports scientists.
 
 ![SSLJR_Vis3Ddemo-title](/images/SSLJR_Vis3Ddemo-title.gif)
 
-### Lab-in-the-field setup
+### Pushing boundaries on the Track
 
-Several of my PhD studies were conducted in the athletic facility of Topsporthal Vlaanderen. Colleagues and I set up a pretty unique lab-in-the-field. It involved built-in force and pressure plates embedded in one of the lanes, and a research-grade indoor position system for immediate speed feedback during the periods of data collection.
+My PhD research took me beyond the traditional lab setting.  Collaborating with colleagues, we established a unique lab-in-the-field environment at the athletic facility of Topsporthal Vlaanderen. Imagine a dedicated lane equipped with built-in force and pressure platforms, coupled with a sophisticated indoor positioning system. This setup allowed us to gather real-time speed feedback, providing invaluable insights for our studies.
 
 ![TSHmonitoring](/images/TSHmonitoring.png){:width="600x"}

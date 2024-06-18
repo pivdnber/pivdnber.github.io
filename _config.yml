@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : SportSciSum
+  username               : PieterVeeDeeBee
   card                   : summary
 facebook:
   username               :
@@ -70,7 +70,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : Pieter Van den Berghe
   links:
-    - https://twitter.com/sportSciSum
+    - https://twitter.com/PieterVeeDeeBee
     - https://github.com/pivdnber
 
 # Analytics
@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Pieter Van den Berghe"
-  avatar           : "profile.jpg"
-  bio              : "PhD in Health Sciences. Affiliated with Ghent University."
-  location         : "Ghent, Belgium"
+  avatar           : "profilepic.jpg"
+  bio              : "Research Fellow"
+  location         : "Boston, USA"
   employer         :
   pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sE7vYWcAAAAJ"
-  email            : "pieter.vandenberghe@ugent.be"
+  email            : "pvandenberghe@mgb.org"
   researchgate     : "https://www.researchgate.net/profile/Pieter-Van-Den-Berghe/"
   uri              :
   bitbucket        :
@@ -105,13 +105,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0000-0001-8205-5491"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : SportSciSum
+  twitter          : PieterVeeDeeBee
   vine             :
   weibo            :
   xing             :
