@@ -13,9 +13,7 @@ redirect_from:
 
 ## Hello there!
 
-I am a research scientist whos interests lie in the fascinating field of human biomechanics and physiology, exploring how our bodies move and function. My research has been about human mechanics and energetics, feedback applications, non-invasive tissue imaging, and sports-related injury.
-
-
+I am a research scientist whose interests lie in the fascinating field of human biomechanics and physiology, exploring how our bodies move and function. My research has been about human mechanics and energetics, feedback applications, non-invasive tissue imaging, and sports-related injury.
 
 <br>
 
