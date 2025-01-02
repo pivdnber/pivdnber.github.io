@@ -13,10 +13,10 @@ redirect_from:
 
 ## Hello there!
 
-I am a research scientist whose interests lie in the fascinating field of human biomechanics and physiology, exploring how our bodies move and function. My research has been about human mechanics and energetics, feedback applications, non-invasive tissue imaging, and sports-related injury.
+I am a research scientist whose interests lie in the fascinating field of human biomechanics and physiology, exploring how our bodies move and function. My research has been about human mechanics and energetics, feedback applications, non-invasive tissue imaging, and human injury and disease.
 
 <br>
 
-This site is a bit skeletal since departing to Boston, USA, as I am pursueing post-doctoral research at Spaulding Rehabilitation, Harvard Medical School. I'd love to connect with you [on LinkedIn](https://www.linkedin.com/in/pivdnber/) or [get in touch](mailto:pvandenberghe@mgb.org)!
+This site is a bit skeletal since relocating to the USA but I'd love to connect with you [on LinkedIn](https://www.linkedin.com/in/pivdnber/), or [get in touch](mailto:pieter.vandenberghe@ugent.be).
 
 <br>    

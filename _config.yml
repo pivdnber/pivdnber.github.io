@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Pieter Van den Berghe"
   avatar           : "profilepic.jpg"
-  bio              : "Research Fellow"
-  location         : "Boston, USA"
+  bio              : "Faculty/staff at UNO"
+  location         : "Omaha, USA"
   employer         :
   pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Van+den+Berghe+Pieter"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sE7vYWcAAAAJ"
-  email            : "pvandenberghe@mgb.org"
-  researchgate     : "https://www.researchgate.net/profile/Pieter-Van-Den-Berghe/"
+  email            : "pieter.vandenberghe@ugent.be"
+  researchgate     : # "https://www.researchgate.net/profile/Pieter-Van-Den-Berghe/"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,14 +104,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : pivdnber
   orcid            : #"https://orcid.org/0000-0001-8205-5491"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : PieterVeeDeeBee
+  twitter          : # PieterVeeDeeBee
   vine             :
   weibo            :
   xing             :
